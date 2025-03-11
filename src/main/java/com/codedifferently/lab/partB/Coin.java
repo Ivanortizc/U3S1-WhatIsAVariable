@@ -4,7 +4,7 @@ public class Coin {
     private String name;
     private double value;
 
-    public Coin() {  // 
+    public Coin() {  //
         this.name = "Penny";
         this.value = 0.01;
     }
